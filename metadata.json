@@ -1,0 +1,4 @@
+{
+  "name": "Gemini PDF Editor",
+  "description": "An Adobe Acrobat clone that allows users to upload, view, navigate, and edit PDF files. Users can add text and images, redact content, and reorder pages. It also uses the Gemini API to extract text from pages."
+}
